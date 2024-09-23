@@ -11,7 +11,9 @@
 ## Overview
 This project is a backend template for a video streaming platform. It includes functionalities for user management, video management, playlists, tweets, comments, likes, and subscriptions. It is built using Node.js, Express, and MongoDB.
 
-![Project Overview](path/to/your/image.png)
+![Model Image](ModelImage.png)
+
+[View Model Details](https://app.eraser.io/workspace/5YkJbZ1bUavMNLKys1k3?origin=share)
 
 ## Features
 - User registration and authentication
